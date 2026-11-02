@@ -1,0 +1,13 @@
+models/
+*.gguf
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+.cache/
+.vscode/
+.DS_Store
