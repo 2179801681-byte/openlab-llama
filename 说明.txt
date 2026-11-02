@@ -1,0 +1,5 @@
+-n:控制输出长度，上下文长度
+-t:控制CPU线程数
+改为1只是速度变慢了，但CPU占用也会少
+-ngl:控制显存的占比
+设成装不下的层数会报错"warning: no usable GPU found, --gpu-layers option will be ignored"

@@ -1,5 +1,6 @@
 models/
 *.gguf
+src/llama.cpp/
 build/
 bin/
 *.o
